@@ -1,0 +1,44 @@
+body{
+  background-color: #F3F8FF;
+  text-align: center;
+  padding-bottom: 3%;
+}
+p{
+  font-size: 7rem;
+  font-family: 'Praise', cursive;
+  color: blue;
+  display: inline-block;
+  position: absolute;
+
+
+}
+.change{
+  color: red;
+}
+.invisible{
+  visibility: collapse;
+  position: absolute;
+}
+.ans{
+  font-size: 7rem;
+  color: #CA4B7C;
+  font-weight: bolder;
+  font-family: 'Comforter Brush', cursive;
+
+}
+.aaa{
+  border-radius: 100%;
+}
+.header{
+  font-size: 7rem;
+  font-family: 'Dancing Script', cursive;
+  margin: 0 1%;
+}
+h1{
+  font-family: 'Caveat', cursive;
+  display: block;
+  color: #8A8635;
+}
+.abc{
+  margin: 3% 0;
+}
